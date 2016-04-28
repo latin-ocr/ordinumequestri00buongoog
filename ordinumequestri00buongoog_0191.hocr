@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordinumequestri00buongoog_0191.png"; bbox 0 0 3492 5975; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 258 558 3202 4540">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 258 558 3202 4540">
+     <span class='ocr_line' id='line_1_1' title="bbox 258 558 3202 4540; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 258 558 3202 4540; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 908 4555 2523 4840">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 908 4555 2523 4840">
+     <span class='ocr_line' id='line_1_2' title="bbox 908 4555 2523 4741; baseline -0.012 -42"><span class='ocrx_word' id='word_1_2' title='bbox 908 4599 1373 4741; x_wconf 65' lang='lat' dir='ltr'><em>Eques·</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1436 4555 2523 4730; x_wconf 45' lang='lat' dir='ltr'><em>Dunebur‘qzim.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1133 4750 2081 4840; baseline -0.014 4"><span class='ocrx_word' id='word_1_4' title='bbox 1133 4776 1144 4787; x_wconf 84' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_5' title='bbox 1416 4816 1432 4838; x_wconf 58' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 1451 4768 1532 4839; x_wconf 56' lang='lat' dir='ltr'><em>‘h</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1579 4779 1747 4840; x_wconf 34' lang='grc' dir='ltr'><em>πώ*</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1779 4828 1784 4832; x_wconf 90' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1840 4750 2081 4834; x_wconf 50' lang='lat' dir='ltr'><em>wanlai</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

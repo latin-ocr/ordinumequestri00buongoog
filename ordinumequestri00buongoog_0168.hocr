@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordinumequestri00buongoog_0168.png"; bbox 0 0 3492 5975; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 251 1007 920 1098">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 251 1007 920 1098">
+     <span class='ocr_line' id='line_1_1' title="bbox 251 1007 920 1098; baseline -0.039 -4"><span class='ocrx_word' id='word_1_1' title='bbox 251 1027 617 1098; x_wconf 59' lang='lat' dir='ltr'>17⁸·...ffl···.·23···*·f*</span> <span class='ocrx_word' id='word_1_2' title='bbox 636 1029 646 1042; x_wconf 89' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 733 1017 768 1044; x_wconf 79' lang='grc'>”’</span> <span class='ocrx_word' id='word_1_4' title='bbox 782 1017 797 1036; x_wconf 70' lang='grc'>“</span> <span class='ocrx_word' id='word_1_5' title='bbox 831 1013 838 1024; x_wconf 87' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 867 1007 920 1028; x_wconf 80' lang='grc'>““”</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1750 5975">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1750 5975">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1750 5975; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1750 5975; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordinumequestri00buongoog_0205.png"; bbox 0 0 3492 5975; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 158 558 3348 4600">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 158 558 3348 4600">
+     <span class='ocr_line' id='line_1_1' title="bbox 158 558 3348 4600"><span class='ocrx_word' id='word_1_1' title='bbox 158 558 3348 4600; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1367 4623 2364 4776">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1367 4623 2364 4776">
+     <span class='ocr_line' id='line_1_2' title="bbox 1367 4623 2364 4776; baseline -0.006 -51"><span class='ocrx_word' id='word_1_2' title='bbox 1367 4637 1739 4776; x_wconf 55' lang='lat' dir='ltr'><em>Eque?</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1783 4623 2289 4723; x_wconf 58' lang='grc' dir='ltr'><em>Γνιζκτὶι».</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2356 4709 2364 4719; x_wconf 92' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1555 4777 2185 4907">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1555 4777 2185 4907">
+     <span class='ocr_line' id='line_1_3' title="bbox 1555 4777 2185 4907; baseline -0.013 -25"><span class='ocrx_word' id='word_1_5' title='bbox 1555 4777 1699 4881; x_wconf 59' lang='lat' dir='ltr'><em>chrss</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1717 4813 1961 4907; x_wconf 60' lang='lat' dir='ltr'><em>,asa-522</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2010 4845 2128 4879; x_wconf 65' lang='lat' dir='ltr'><em>m.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2176 4865 2185 4874; x_wconf 91' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

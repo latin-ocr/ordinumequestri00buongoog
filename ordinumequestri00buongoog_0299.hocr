@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordinumequestri00buongoog_0299.png"; bbox 0 0 3492 5975; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 288 522 2739 4628">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 288 522 2739 4628">
+     <span class='ocr_line' id='line_1_1' title="bbox 288 522 2739 4628; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 288 522 2739 4628; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 287 4765 2416 4985">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 287 4765 2416 4985">
+     <span class='ocr_line' id='line_1_2' title="bbox 287 4765 2416 4985; baseline 0.004 -80"><span class='ocrx_word' id='word_1_2' title='bbox 287 4765 669 4976; x_wconf 62' lang='lat' dir='ltr'><em>cyme-,r</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 692 4852 743 4909; x_wconf 70' lang='lat' dir='ltr'><em>L</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 758 4778 2416 4985; x_wconf 56' lang='lat' dir='ltr'><em>YMz&#39;astczelesss·.-l&#39;tzlusl&#39;bmzd3</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 976 4966 2532 5091">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 976 4966 2532 5091">
+     <span class='ocr_line' id='line_1_3' title="bbox 976 4966 2532 5091; baseline 0.003 -54"><span class='ocrx_word' id='word_1_5' title='bbox 976 4966 1151 5039; x_wconf 55' lang='lat' dir='ltr'><em>vl».</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1194 4971 1415 5059; x_wconf 57' lang='lat' dir='ltr'><em>Weffll</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1480 5004 1629 5039; x_wconf 60' lang='lat' dir='ltr'><em>erc.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2449 5020 2532 5091; x_wconf 54' lang='grc' dir='ltr'><strong><em>γ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

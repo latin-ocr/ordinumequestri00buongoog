@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordinumequestri00buongoog_0295.png"; bbox 0 0 3492 5975; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 316 642 2754 4088">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 316 642 2754 4088">
+     <span class='ocr_line' id='line_1_1' title="bbox 316 642 2754 4088"><span class='ocrx_word' id='word_1_1' title='bbox 316 642 2754 4088; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1749 4096 2692 4235">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1749 4096 2692 4235">
+     <span class='ocr_line' id='line_1_2' title="bbox 1749 4096 2692 4235; baseline -0.013 -38"><span class='ocrx_word' id='word_1_2' title='bbox 1749 4096 1970 4197; x_wconf 74' lang='lat' dir='ltr'><em>et</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 2022 4104 2692 4235; x_wconf 63' lang='lat' dir='ltr'><em>Lazzjcvz</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 992 4096 1776 4283">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 992 4096 1776 4283">
+     <span class='ocr_line' id='line_1_3' title="bbox 992 4096 1776 4283; baseline -0.003 -81"><span class='ocrx_word' id='word_1_4' title='bbox 992 4112 1207 4202; x_wconf 68' lang='grc' dir='ltr'><em>ΔἎἻ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1215 4096 1776 4283; x_wconf 57' lang='lat' dir='ltr'><em>Maurzq</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 454 4112 948 4285">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 454 4112 948 4285">
+     <span class='ocr_line' id='line_1_4' title="bbox 454 4112 948 4285; baseline -0.008 -77"><span class='ocrx_word' id='word_1_6' title='bbox 454 4112 948 4285; x_wconf 58' lang='grc' dir='ltr'><em>-ΕῘιιεκ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
